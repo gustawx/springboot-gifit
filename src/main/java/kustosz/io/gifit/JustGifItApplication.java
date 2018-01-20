@@ -1,4 +1,4 @@
-package kustosz.io.gitit;
+package kustosz.io.gifit;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;

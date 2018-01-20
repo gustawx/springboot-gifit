@@ -1,9 +1,9 @@
-package kustosz.io.gitit.controller;
+package kustosz.io.gifit.controller;
 
 import com.madgag.gif.fmsware.AnimatedGifEncoder;
-import kustosz.io.gitit.services.ConverterService;
-import kustosz.io.gitit.services.GifEncoderService;
-import kustosz.io.gitit.services.VideoDecoderService;
+import kustosz.io.services.ConverterService;
+import kustosz.io.services.GifEncoderService;
+import kustosz.io.services.VideoDecoderService;
 import org.bytedeco.javacv.FFmpegFrameGrabber;
 import org.bytedeco.javacv.FrameGrabber;
 import org.slf4j.Logger;
