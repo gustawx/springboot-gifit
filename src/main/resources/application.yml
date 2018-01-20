@@ -14,3 +14,7 @@ com:
   justgifit:
     optimize: true
     gif-location: ${java.io.tmpdir}/gif
+
+security:
+  basic:
+    enabled: false
