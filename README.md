@@ -7,4 +7,7 @@ to upload cat.mp4 from main dir run:
 <br>
 to use this app the "mvn install" need to be run on 'springboot-autoconfigure' first.
 <p>
-springboot-autoconfigure contains autoconfiguration for this project. 
+springboot-autoconfigure contains autoconfiguration for this project.
+<p>
+To build docker image first compile code and then run:<br>
+mvn docker:build 
