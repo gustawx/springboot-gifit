@@ -1,0 +1,11 @@
+# configure auto-configured MultipartConfigElement
+
+multipart:
+  maxFileSize: 50MB
+  maxRrequestSize: 50MB
+  location: ${java.io.tmpdir}
+
+spring:
+  mvc:
+    favicon:
+      enabled: false
